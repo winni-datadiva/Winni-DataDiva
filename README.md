@@ -5,7 +5,7 @@ Hi! I'm **Winni (she/her)** - an emerging data professional with cross-industry 
 
 <p align="center">
   <a href="http://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,discord,gcp,github,html,linkedin,md,mysql,py,sklearn,vscode" />
+    <img src="https://skillicons.dev/icons?i=ai,anaconda,discord,fastapi,gcp,github,html,linkedin,linux,md,mysql,postgres,py,sklearn,sqlite,tensorflow,ubuntu,vscode,wordpress&perline=7" />
       </a>
 </p>
 
