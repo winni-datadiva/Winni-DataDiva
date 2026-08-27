@@ -17,7 +17,7 @@ Hi! I'm **Winni (she/her)** - a business operations analyst with cross-industry 
         - AI for Impact: Small Business Challenge hackathon -> winning team
 - Microsoft Power BI Data Analyst training completed *(cert tent Nov 2026)* <br/>
 - [Technologists for the Public Good](https://www.publicgood.tech/) member <br/>
-- [Out In Tech](https://outintech.com/) **Leadership Institute** (*Oct 2025*); **Ditigal Corps** (*Virtual Build Day - Nov 2025*) <br/>
+- [Out In Tech](https://outintech.com/) **Leadership Institute** (*Oct 2025*); **Digital Corps** (*Virtual Build Day - Nov 2025*) <br/>
 </br>
 
 
